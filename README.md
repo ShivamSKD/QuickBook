@@ -1,20 +1,18 @@
 # QuickBook
 This is a local book renting app for students to rent/provide books at cheap rate.
-We have used Firebase for login signup and book images list.
-SQLite for maintainig book and user data.
-Recycler View for Book image list.
-Services For Notification.
+
 
 
 ## Features
 
-We have used Firebase for login signup and book images list.
-SQLite for maintainig book and user data.
-Recycler View for Book image list.
-Services For Notification.
+</br>
+We have used Firebase for login signup and book images list.</br>
+SQLite for maintainig book and user data.</br>
+Recycler View for Book image list.</br>
+Services For Notification.</br>
 
 
-![Screenshot_2020-10-03-20-33-36-636_com example skd food_order](https://user-images.githubusercontent.com/34786046/95028531-6bf98680-06be-11eb-9489-9260c49ef65f.jpg)
+
 ![Screenshot_2020-10-03-20-34-13-508_com example skd food_order](https://user-images.githubusercontent.com/34786046/95028536-73b92b00-06be-11eb-94a6-4a3d854ec969.jpg)
 ![Screenshot_2020-10-04-02-30-02-520_com Code Vista BookShare](https://user-images.githubusercontent.com/34786046/95028538-76b41b80-06be-11eb-82f5-cbf56963f256.jpg)
 ![Screenshot_2020-10-04-02-30-31-216_com Code Vista BookShare](https://user-images.githubusercontent.com/34786046/95028543-7c116600-06be-11eb-9998-045e1674faaa.jpg)
