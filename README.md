@@ -1,8 +1,15 @@
 # QuickBook
-tested on API 26, nexus4
+This is a local book renting app for students to rent/provide books at cheap rate.
+We have used Firebase for login signup and book images list.
+SQLite for maintainig book and user data.
+Recycler View for Book image list.
+Services For Notification.
 
- ● Used Firebase to store restaurant data, Applied MVC pattern design style for client
-side & server side.
 
- ● Provided sign in/sign up function, menu and book list loading, orders management
-process
+## Features
+
+We have used Firebase for login signup and book images list.
+SQLite for maintainig book and user data.
+Recycler View for Book image list.
+Services For Notification.
+
