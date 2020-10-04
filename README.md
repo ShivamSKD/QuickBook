@@ -12,10 +12,8 @@ We have used Firebase for login signup and book images list.
 SQLite for maintainig book and user data.
 Recycler View for Book image list.
 Services For Notification.
-![Screenshot (758)](https://user-images.githubusercontent.com/34786046/95028629-3012f100-06bf-11eb-99a1-f8d8a4fb9ed9.png)
-![Screenshot (759)](https://user-images.githubusercontent.com/34786046/95028630-31dcb480-06bf-11eb-92a4-6bc9e4dbda3f.png)
-![Screenshot (760)](https://user-images.githubusercontent.com/34786046/95028631-330de180-06bf-11eb-811d-1b148af756ee.png)
 ![Screenshot (761)](https://user-images.githubusercontent.com/34786046/95028632-343f0e80-06bf-11eb-92c0-b1004530a1b0.png)
+
 ![Screenshot_2020-10-03-20-33-30-346_com example skd food_order](https://user-images.githubusercontent.com/34786046/95028517-5b491080-06be-11eb-9349-7944f09062a4.jpg)
 ![Screenshot_2020-10-03-20-33-36-636_com example skd food_order](https://user-images.githubusercontent.com/34786046/95028531-6bf98680-06be-11eb-9489-9260c49ef65f.jpg)
 ![Screenshot_2020-10-03-20-34-13-508_com example skd food_order](https://user-images.githubusercontent.com/34786046/95028536-73b92b00-06be-11eb-94a6-4a3d854ec969.jpg)
